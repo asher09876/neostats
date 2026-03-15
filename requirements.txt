@@ -1,0 +1,6 @@
+pandas
+numpy
+azure-storage-blob
+azure-identity
+pyodbc 
+cryptography

@@ -1,0 +1,201 @@
+Server_ID,Date,Server_Location,OS_Type,Instance_Size,Server_Role,Region_Group,Avg_CPU,Max_CPU,Avg_Memory,Max_Memory,Avg_Disk,Avg_Availability,Avg_Uptime,Avg_Load_Score,Bad_Events,Total_Records
+0435b059-4f09-4a27-abfc-2a2bd4548aa7,2025-01-27,"New York, USA",Windows Server 2019,Small,Backup,Americas,87.98,87.98,34.46,34.46,66.78,87.71,21.05,63.07,0,1
+04799af0-d18c-4d82-925b-cdcc9b69ee0c,2025-02-16,"New York, USA",Ubuntu 20.04,Large,Analytics,Americas,51.42,51.42,54.94,54.94,32.41,79.75,19.14,46.26,0,1
+0564a58b-bc34-4c9c-9cdc-907fc1708c67,2025-02-04,"Berlin, Germany",CentOS 8,Small,Cache,Europe,32.97,32.97,86.84,86.84,22.0,87.54,21.01,47.27,0,1
+05dcde9e-836e-4169-b3dc-519478cbafa0,2025-03-02,"Sydney, Australia",Red Hat Enterprise Linux,Large,Database,Asia Pacific,46.02,46.02,31.73,31.73,48.49,81.42,19.54,42.08,0,1
+07b5619c-8ed1-4226-a35c-880b76379cab,2025-02-07,"Berlin, Germany",Windows Server 2022,Small,Web Server,Europe,63.36,63.36,94.26,94.26,27.6,91.17,21.88,61.74,0,1
+0859608c-7f1b-4332-ba35-d50885c3c029,2025-02-12,"New York, USA",Windows Server 2022,Small,Web Server,Americas,86.0,86.0,65.67,65.67,87.6,77.13,18.51,79.76,0,1
+08ac5795-9603-4848-9fc0-f20307b026aa,2025-02-07,"London, UK",Ubuntu 20.04,Small,Cache,Europe,17.66,17.66,79.55,79.55,13.41,77.04,18.49,36.87,0,1
+08da88a1-335a-49bb-8722-34fad4ea1661,2025-01-19,"Tokyo, Japan",Ubuntu 20.04,Large,Analytics,Asia Pacific,82.13,82.13,39.08,39.08,84.13,94.42,22.66,68.45,0,1
+0959611f-38cb-420e-8e54-87de77b37e17,2025-02-02,"Berlin, Germany",Red Hat Enterprise Linux,Large,Analytics,Europe,34.84,34.84,54.65,54.65,35.88,93.33,22.4,41.79,0,1
+09d5a8a9-bd36-47a5-b851-07e5a865ce34,2025-02-26,"Berlin, Germany",Windows Server 2022,Medium,API,Europe,87.52,87.52,41.03,41.03,70.97,81.67,19.6,66.51,0,1
+0a0c694c-17be-4566-9c77-8e74ff8c4839,2025-02-09,"Tokyo, Japan",Red Hat Enterprise Linux,Large,Database,Asia Pacific,80.58,80.58,81.95,81.95,49.5,80.42,19.3,70.68,0,1
+0a33a4cd-1a22-418e-bef8-321c1ec3cbf8,2025-03-15,"Sydney, Australia",Windows Server 2019,Large,Analytics,Asia Pacific,23.54,23.54,40.76,40.76,71.74,87.96,21.11,45.35,0,1
+0a3eb18a-58dc-4b3d-9f77-6aa79acd4a02,2025-02-26,"Tokyo, Japan",Windows Server 2019,Medium,Application,Asia Pacific,64.93,64.93,79.64,79.64,69.06,91.79,22.03,71.21,0,1
+0daade74-2f6b-4ffa-8968-6a473181add6,2025-02-14,"Tokyo, Japan",Red Hat Enterprise Linux,Large,Database,Asia Pacific,74.18,74.18,30.41,30.41,48.19,90.25,21.66,50.93,0,1
+10004a69-09d9-42c3-aeac-4f85cde41e39,2025-01-20,"Sydney, Australia",Red Hat Enterprise Linux,Large,Analytics,Asia Pacific,12.21,12.21,63.89,63.89,12.34,84.92,20.38,29.48,0,1
+1263f1f7-42dd-447a-9ad2-fe60654f0154,2025-01-22,"Berlin, Germany",Red Hat Enterprise Linux,Large,Database,Europe,19.73,19.73,29.52,29.52,59.17,90.29,21.67,36.14,0,1
+159e48e3-d466-4655-8c6b-823e0de48faf,2025-03-15,"London, UK",Windows Server 2019,Small,Cache,Europe,43.05,43.05,95.76,95.76,79.01,89.08,21.38,72.61,0,1
+169f8460-9372-40b2-9521-fcd86e4e2829,2025-02-26,"London, UK",Windows Server 2022,Medium,Application,Europe,76.28,76.28,20.79,20.79,38.79,87.37,20.97,45.29,0,1
+17ea735b-ff4f-4c7f-8a6d-f596a5510d4e,2025-01-20,"Berlin, Germany",Windows Server 2019,Large,Analytics,Europe,56.18,56.18,85.81,85.81,82.82,94.54,22.69,74.94,0,1
+182ce3e2-96d9-4639-a1cf-09c5352bd37e,2025-01-15,"Sydney, Australia",CentOS 8,Medium,Application,Asia Pacific,13.05,13.05,24.77,24.77,99.3,78.5,18.84,45.71,0,1
+198b38ac-dc7e-4638-8521-744dc7121841,2025-03-03,"London, UK",Windows Server 2019,Small,Backup,Europe,84.99,84.99,27.63,27.63,31.48,83.25,19.98,48.03,0,1
+1ac75ca2-8b59-4b90-897a-64c7913b5098,2025-01-22,"Berlin, Germany",Ubuntu 20.04,Medium,API,Europe,44.27,44.27,20.03,20.03,93.94,80.29,19.27,52.75,0,1
+1ca0a88a-f163-421b-8fe2-7ef72d14a685,2025-03-15,"Tokyo, Japan",Windows Server 2019,Large,Analytics,Asia Pacific,10.57,10.57,20.79,20.79,84.73,86.38,20.73,38.7,0,1
+1ce1db28-d790-4d9b-ab97-a4fca8dc8779,2025-02-26,"Sydney, Australia",Ubuntu 20.04,Medium,API,Asia Pacific,35.8,35.8,28.95,28.95,68.74,95.79,22.99,44.5,0,1
+208f4b78-88d8-4528-8dcc-2524d6d710fc,2025-01-21,"London, UK",Windows Server 2019,Small,Web Server,Europe,44.98,44.98,85.3,85.3,99.64,90.42,21.7,76.64,0,1
+231ff169-049b-469e-afe2-106af40e371e,2025-01-22,"Tokyo, Japan",CentOS 8,Small,Backup,Asia Pacific,76.93,76.93,56.28,56.28,92.79,83.12,19.95,75.33,0,1
+263e2221-7f06-4803-9bb2-7c26818829de,2025-01-26,"Sydney, Australia",Windows Server 2019,Large,Analytics,Asia Pacific,37.09,37.09,56.42,56.42,27.57,95.08,22.82,40.36,0,1
+26bae71d-c025-4082-9484-ef7aa9e04836,2025-01-25,"London, UK",Ubuntu 20.04,Small,Web Server,Europe,49.72,49.72,84.35,84.35,73.89,82.12,19.71,69.32,0,1
+270cd957-a331-4dc2-bbcf-85b91e292784,2025-02-27,"Berlin, Germany",Ubuntu 20.04,Small,Cache,Europe,62.76,62.76,76.1,76.1,52.29,77.75,18.66,63.72,0,1
+28fe2731-7083-4dd0-97aa-e535ecd8842f,2025-02-18,"Berlin, Germany",CentOS 8,Medium,API,Europe,12.99,12.99,58.45,58.45,27.97,83.17,19.96,33.14,0,1
+2a5e4119-aac6-43b2-a966-facc92dc657e,2025-01-22,"London, UK",Windows Server 2019,Small,Cache,Europe,46.32,46.32,97.77,97.77,26.87,77.92,18.7,56.99,0,1
+2bcf9791-4750-4c36-9cd5-88335c385de4,2025-02-24,"London, UK",CentOS 8,Medium,Application,Europe,94.01,94.01,60.56,60.56,31.86,84.54,20.29,62.14,0,1
+2c052f16-fe45-4915-9d65-d908d77a0da5,2025-03-03,"London, UK",Windows Server 2022,Small,Cache,Europe,89.41,89.41,60.74,60.74,92.42,90.12,21.63,80.86,0,1
+2cfe603c-3683-452b-881c-8b51f5c7c3ce,2025-03-07,"New York, USA",Windows Server 2022,Large,Analytics,Americas,33.17,33.17,47.99,47.99,64.99,92.08,22.1,48.72,0,1
+3145367a-2b21-41fc-8eef-1d92088de8a4,2025-02-07,"London, UK",Windows Server 2019,Medium,API,Europe,88.99,88.99,42.49,42.49,91.11,85.71,20.57,74.2,0,1
+31b4037d-4400-483b-ac3b-62a4e0fdb3de,2025-03-09,"Tokyo, Japan",CentOS 8,Medium,Application,Asia Pacific,24.9,24.9,38.19,38.19,62.9,83.96,20.15,42.0,0,1
+31d83824-b926-4a54-a3f0-291257a5df22,2025-01-31,"Berlin, Germany",Ubuntu 20.04,Large,Database,Europe,58.51,58.51,37.95,37.95,34.31,83.79,20.11,43.59,0,1
+32f0a94c-9d01-4d3f-9769-4d1ff9acf7d6,2025-03-09,"Sydney, Australia",Red Hat Enterprise Linux,Large,Analytics,Asia Pacific,66.37,66.37,41.0,41.0,81.15,78.96,18.95,62.84,0,1
+338720f2-d47e-4b0c-83fd-db1c9359c470,2025-01-22,"Tokyo, Japan",Windows Server 2019,Medium,API,Asia Pacific,45.88,45.88,20.98,20.98,32.56,89.29,21.43,33.14,0,1
+352c6356-d76e-47d3-bb86-ed94aa70f82f,2025-02-10,"Sydney, Australia",Windows Server 2019,Small,Web Server,Asia Pacific,29.51,29.51,76.82,76.82,30.39,90.79,21.79,45.57,0,1
+36ff6320-81da-4d9c-bf87-ee5231163167,2025-02-08,"Sydney, Australia",Ubuntu 20.04,Small,Cache,Asia Pacific,97.8,97.8,31.31,31.31,54.23,95.5,22.92,61.11,0,1
+375cb3db-89d3-4705-af4a-8f829cce1928,2025-02-21,"Tokyo, Japan",Windows Server 2022,Medium,Application,Asia Pacific,63.97,63.97,67.31,67.31,96.46,94.92,22.78,75.91,0,1
+3761fb3d-cbbe-4c10-b712-6069e3b8f788,2025-01-20,"Berlin, Germany",Ubuntu 20.04,Small,Backup,Europe,93.09,93.09,55.27,55.27,20.66,89.46,21.47,56.34,0,1
+37b6384b-fca5-4a5a-9aa3-1c6ee8b70eb6,2025-03-12,"Sydney, Australia",Windows Server 2022,Small,Backup,Asia Pacific,40.14,40.14,51.37,51.37,79.7,91.96,22.07,57.07,0,1
+3c110a81-cfdc-40f5-82a5-906466d0444d,2025-02-10,"Sydney, Australia",Red Hat Enterprise Linux,Small,Cache,Asia Pacific,13.71,13.71,95.85,95.85,32.54,86.75,20.82,47.37,0,1
+3ce3e210-f12d-48a6-9c32-d122b4511d43,2025-02-20,"Tokyo, Japan",Windows Server 2019,Medium,Application,Asia Pacific,33.38,33.38,71.83,71.83,68.57,80.0,19.2,57.93,0,1
+436cc765-63b1-4e27-bdf4-2bb787eb5205,2025-02-19,"Berlin, Germany",Red Hat Enterprise Linux,Small,Cache,Europe,14.02,14.02,39.26,39.26,74.72,77.67,18.64,42.67,0,1
+44dde1fc-01e2-4a79-bf34-1b29a726f24c,2025-02-04,"Berlin, Germany",CentOS 8,Large,Database,Europe,39.97,39.97,61.23,61.23,77.75,75.46,18.11,59.65,0,1
+451bd625-de81-4328-984d-26aed6baf88c,2025-02-08,"Sydney, Australia",Windows Server 2019,Medium,API,Asia Pacific,30.02,30.02,53.13,53.13,90.09,93.88,22.53,57.75,0,1
+454de38a-5961-490f-9d46-d20663a36baf,2025-01-29,"New York, USA",Red Hat Enterprise Linux,Small,Backup,Americas,44.72,44.72,57.64,57.64,14.94,77.67,18.64,39.1,0,1
+45f85e50-93d5-4980-8810-e893654bcde8,2025-02-19,"Sydney, Australia",Windows Server 2022,Medium,API,Asia Pacific,42.23,42.23,59.59,59.59,59.81,90.46,21.71,53.88,0,1
+46ffa7e8-428b-4778-96e6-66c8aa51469c,2025-01-31,"Tokyo, Japan",Windows Server 2022,Large,Database,Asia Pacific,87.9,87.9,90.72,90.72,34.53,89.42,21.46,71.05,0,1
+4748daa4-86cf-4c28-a21b-9866c86edced,2025-01-31,"London, UK",Red Hat Enterprise Linux,Small,Backup,Europe,68.02,68.02,94.66,94.66,20.72,94.88,22.77,61.13,0,1
+4932108c-c61e-41f4-95d0-3ad921cdc7e5,2025-03-11,"Tokyo, Japan",CentOS 8,Small,Backup,Asia Pacific,34.61,34.61,70.19,70.19,59.67,81.83,19.64,54.82,0,1
+4a94c403-8c15-4397-a2a5-6a22212327d1,2025-03-03,"Tokyo, Japan",Ubuntu 20.04,Small,Web Server,Asia Pacific,49.61,49.61,84.08,84.08,88.26,82.75,19.86,73.98,0,1
+4a995069-1c99-4794-a57f-90ff3bf06fb3,2025-01-18,"New York, USA",Windows Server 2022,Large,Analytics,Americas,99.3,99.3,86.17,86.17,59.61,80.5,19.32,81.69,0,1
+4aa1fa83-c575-4d81-a1c7-f1ed5395a0f6,2025-02-20,"Tokyo, Japan",CentOS 8,Large,Analytics,Asia Pacific,88.3,88.3,24.14,24.14,25.99,84.12,20.19,46.14,0,1
+4b550e8d-7bf4-44ea-aec0-215ca2e2fe6e,2025-01-30,"Sydney, Australia",Ubuntu 20.04,Medium,Application,Asia Pacific,50.02,50.02,31.38,31.38,39.92,93.33,22.4,40.44,0,1
+4cb1a51a-f2f7-4723-9e2c-cf2f8b95b327,2025-02-04,"Berlin, Germany",Windows Server 2022,Small,Web Server,Europe,82.2,82.2,51.31,51.31,96.44,89.21,21.41,76.65,0,1
+4cf43079-bfc2-4fe8-97f6-4e43918307cb,2025-01-28,"Tokyo, Japan",Windows Server 2022,Small,Backup,Asia Pacific,68.63,68.63,43.19,43.19,40.2,90.71,21.77,50.67,0,1
+4d55bfc7-c27e-42d9-b271-c49770de3164,2025-03-08,"New York, USA",Windows Server 2022,Small,Cache,Americas,38.03,38.03,68.66,68.66,45.14,89.0,21.36,50.61,0,1
+513d5310-3933-456b-a835-221f2df6c1fe,2025-01-17,"Sydney, Australia",CentOS 8,Large,Analytics,Asia Pacific,51.65,51.65,30.42,30.42,16.69,75.88,18.21,32.92,0,1
+536c9e75-40a1-4a74-8ca6-c6abaec13999,2025-03-11,"Berlin, Germany",Windows Server 2022,Small,Web Server,Europe,28.1,28.1,88.6,88.6,28.36,77.04,18.49,48.35,0,1
+55f503b7-c9e2-4860-b240-3432660f8505,2025-02-28,"Berlin, Germany",Red Hat Enterprise Linux,Small,Cache,Europe,76.34,76.34,73.56,73.56,73.25,78.25,18.78,74.38,0,1
+59a64c0f-3002-4b0a-a740-5c77f29ef92a,2025-01-16,"Tokyo, Japan",CentOS 8,Small,Cache,Asia Pacific,87.16,87.16,95.57,95.57,11.74,91.79,22.03,64.82,0,1
+59ff4908-2394-4f4b-b9ce-d402a8b64355,2025-02-17,"Tokyo, Japan",Windows Server 2019,Small,Web Server,Asia Pacific,71.41,71.41,48.28,48.28,70.28,94.75,22.74,63.32,0,1
+5a77948a-5cc1-471e-997c-95f80ed78679,2025-03-02,"New York, USA",Windows Server 2022,Large,Database,Americas,91.63,91.63,80.79,80.79,10.09,84.21,20.21,60.84,0,1
+5aa93017-a552-4598-af92-acd123695c21,2025-02-28,"New York, USA",Red Hat Enterprise Linux,Large,Analytics,Americas,74.84,74.84,99.52,99.52,68.8,81.46,19.55,81.05,0,1
+5bd5e8f7-1339-4060-961c-894129724f45,2025-02-23,"Tokyo, Japan",Windows Server 2022,Large,Database,Asia Pacific,24.65,24.65,55.57,55.57,30.66,93.17,22.36,36.96,0,1
+5c8486a8-da04-409a-a64e-1b46277aa8e2,2025-02-09,"Berlin, Germany",Ubuntu 20.04,Large,Analytics,Europe,36.89,36.89,24.27,24.27,70.85,84.08,20.18,44.0,0,1
+5cc7672a-5ebf-45b0-955a-52a34cf2bbbd,2025-01-29,"Berlin, Germany",CentOS 8,Medium,API,Europe,14.66,14.66,50.73,50.73,87.11,75.92,18.22,50.83,0,1
+60158035-6a06-47a7-ab95-636f9364b04c,2025-02-02,"New York, USA",Ubuntu 20.04,Medium,Application,Americas,96.18,96.18,75.8,75.8,98.98,78.38,18.81,90.32,0,1
+60d53c28-062e-4801-8f61-900dd245c7e0,2025-02-24,"Sydney, Australia",Red Hat Enterprise Linux,Large,Analytics,Asia Pacific,70.5,70.5,24.34,24.34,47.01,75.25,18.06,47.28,0,1
+622aeffb-fb0f-463c-938d-f06ced55569c,2025-02-06,"Tokyo, Japan",CentOS 8,Medium,Application,Asia Pacific,56.54,56.54,34.44,34.44,15.78,76.29,18.31,35.59,0,1
+624b7e0f-4ce0-4af7-bb0c-8f5291436113,2025-01-17,"London, UK",Red Hat Enterprise Linux,Small,Backup,Europe,24.66,24.66,39.35,39.35,94.94,89.71,21.53,52.98,0,1
+63d69c6d-8b9a-493d-acce-689781b567ef,2025-03-04,"New York, USA",Ubuntu 20.04,Medium,API,Americas,39.25,39.25,96.08,96.08,25.89,81.25,19.5,53.74,0,1
+66d1ee4b-ab2b-486a-8faf-28ca0787e6ae,2025-03-09,"London, UK",Windows Server 2019,Medium,API,Europe,74.22,74.22,80.94,80.94,58.35,77.13,18.51,71.17,0,1
+671aef4e-ab70-4634-a523-885c8d9b333d,2025-02-06,"Sydney, Australia",Windows Server 2019,Small,Cache,Asia Pacific,81.95,81.95,76.54,76.54,42.47,89.0,21.36,66.99,0,1
+67ddb04e-fb22-4796-be49-c6ffc6972747,2025-02-05,"New York, USA",Red Hat Enterprise Linux,Medium,API,Americas,48.86,48.86,89.53,89.53,78.01,92.92,22.3,72.13,0,1
+696ff579-ee3d-4cef-8773-9f10c4d93177,2025-01-21,"New York, USA",Red Hat Enterprise Linux,Large,Analytics,Americas,60.7,60.7,39.35,39.35,79.5,87.37,20.97,59.85,0,1
+6a035308-8cef-404d-9a17-eb294ecf8b43,2025-03-12,"New York, USA",CentOS 8,Small,Web Server,Americas,19.83,19.83,92.92,92.92,86.36,77.83,18.68,66.37,0,1
+6c1f53dc-8be7-444e-b670-c4919f77fe7e,2025-02-05,"Berlin, Germany",Red Hat Enterprise Linux,Medium,Application,Europe,85.38,85.38,89.3,89.3,84.4,93.17,22.36,86.36,0,1
+6d6a6dfc-705d-48ae-9a5e-0a018a7ad426,2025-03-11,"Sydney, Australia",Ubuntu 20.04,Large,Analytics,Asia Pacific,46.33,46.33,87.78,87.78,71.92,89.5,21.48,68.68,0,1
+6e9038e5-ef70-4e8b-a4dc-70f97cd521a1,2025-03-05,"Sydney, Australia",Ubuntu 20.04,Small,Cache,Asia Pacific,79.6,79.6,31.69,31.69,68.42,83.67,20.08,59.9,0,1
+6f0d8cc5-501a-42e4-99c7-70d534ca7339,2025-01-20,"Tokyo, Japan",Red Hat Enterprise Linux,Small,Web Server,Asia Pacific,47.58,47.58,97.44,97.44,81.81,86.29,20.71,75.61,0,1
+7031883e-8780-4e08-9a08-9eccf33ea6dd,2025-03-06,"New York, USA",Ubuntu 20.04,Small,Web Server,Americas,37.93,37.93,71.95,71.95,35.87,76.75,18.42,48.58,0,1
+714f10b7-91a8-4728-b27d-f982fd35b101,2025-02-14,"New York, USA",CentOS 8,Small,Web Server,Americas,92.56,92.56,24.03,24.03,91.96,82.71,19.85,69.52,0,1
+72a6d9cf-30df-49d2-a609-ad5c2962d3ab,2025-01-15,"Berlin, Germany",Red Hat Enterprise Linux,Small,Web Server,Europe,82.85,82.85,61.7,61.7,62.74,95.21,22.85,69.1,0,1
+755ed160-757c-4213-8011-226502319394,2025-02-15,"Berlin, Germany",Ubuntu 20.04,Medium,Application,Europe,92.78,92.78,22.54,22.54,73.27,95.17,22.84,62.86,0,1
+76bdc0ca-1e2d-46b3-91c1-0f3ee9ecf01a,2025-02-27,"Tokyo, Japan",Red Hat Enterprise Linux,Small,Cache,Asia Pacific,61.75,61.75,62.49,62.49,60.97,90.0,21.6,61.74,0,1
+77221383-3c1b-4d84-81e1-93e7e48d4cd3,2025-03-02,"London, UK",Windows Server 2019,Small,Cache,Europe,65.92,65.92,92.77,92.77,97.18,92.21,22.13,85.29,0,1
+77d54327-8068-45e5-bbc4-43b36b27ed8c,2025-02-20,"Tokyo, Japan",CentOS 8,Medium,Application,Asia Pacific,96.42,96.42,81.38,81.38,29.87,83.71,20.09,69.22,0,1
+7b188562-51f6-4052-8ee8-795966836b9a,2025-01-17,"London, UK",CentOS 8,Medium,API,Europe,24.95,24.95,24.68,24.68,37.17,76.42,18.34,28.93,0,1
+7bcc89d3-e4f3-462d-ace8-3695b4024ddf,2025-01-18,"London, UK",CentOS 8,Small,Cache,Europe,75.33,75.33,54.51,54.51,86.82,92.67,22.24,72.22,0,1
+7d3441c3-21d8-4f44-b534-9e956be62105,2025-02-18,"New York, USA",CentOS 8,Large,Analytics,Americas,80.3,80.3,73.79,73.79,61.95,93.21,22.37,72.01,0,1
+7e42e194-cb8a-46b6-b0a7-1af143e897e9,2025-01-29,"London, UK",CentOS 8,Small,Web Server,Europe,81.48,81.48,51.27,51.27,17.22,79.71,19.13,49.99,0,1
+7eb08d16-d484-4177-8fcd-9b864bf418af,2025-03-10,"Tokyo, Japan",Red Hat Enterprise Linux,Small,Backup,Asia Pacific,59.33,59.33,67.67,67.67,36.28,90.62,21.75,54.43,0,1
+81cdfbc7-debd-45e3-9de2-366a9009aff4,2025-01-18,"New York, USA",Red Hat Enterprise Linux,Small,Backup,Americas,49.22,49.22,81.51,81.51,19.98,79.04,18.97,50.24,0,1
+83a57f24-e401-4d56-815a-c47625229af5,2025-01-23,"New York, USA",Red Hat Enterprise Linux,Large,Analytics,Americas,20.21,20.21,33.62,33.62,45.55,93.96,22.55,33.13,0,1
+855a4030-4f71-4e78-a3df-2b0d4cc2f866,2025-01-27,"London, UK",CentOS 8,Small,Backup,Europe,49.54,49.54,50.49,50.49,62.94,90.67,21.76,54.32,0,1
+85762351-9c83-4fe4-ba39-259ea4a82ba0,2025-03-13,"New York, USA",Windows Server 2019,Small,Backup,Americas,94.53,94.53,99.19,99.19,56.77,77.13,18.51,83.5,0,1
+87c386ab-07f0-4a23-81a1-c82bb4a9b3d2,2025-02-08,"Tokyo, Japan",Ubuntu 20.04,Medium,API,Asia Pacific,32.76,32.76,66.97,66.97,96.76,93.62,22.47,65.5,0,1
+899916e5-5c12-422b-8914-e915967aac7c,2025-02-01,"Berlin, Germany",Red Hat Enterprise Linux,Large,Analytics,Europe,32.05,32.05,22.12,22.12,58.53,94.04,22.57,37.57,0,1
+8add674a-6bfd-4918-9787-fafa654f77dd,2025-02-28,"London, UK",Ubuntu 20.04,Large,Analytics,Europe,31.19,31.19,95.29,95.29,31.73,87.29,20.95,52.74,0,1
+8b8a3f40-1b67-4fe6-a65e-93fd07f317f7,2025-03-01,"New York, USA",Red Hat Enterprise Linux,Small,Web Server,Americas,37.69,37.69,97.97,97.97,71.46,75.58,18.14,69.04,0,1
+8b98821a-6cef-445c-b007-4ca8eb18563f,2025-02-26,"London, UK",Red Hat Enterprise Linux,Small,Cache,Europe,49.97,49.97,41.02,41.02,97.5,80.17,19.24,62.83,0,1
+8c33ceb9-84c6-4d9e-aef5-4004c8f445e5,2025-03-13,"London, UK",Red Hat Enterprise Linux,Small,Cache,Europe,73.81,73.81,73.64,73.64,38.26,91.33,21.92,61.9,0,1
+8e52d19d-1e84-466e-8e25-d24ae27434ab,2025-03-06,"Tokyo, Japan",Ubuntu 20.04,Small,Web Server,Asia Pacific,12.62,12.62,86.98,86.98,18.54,84.58,20.3,39.38,0,1
+8fd4cba6-6936-4832-b6b8-f6acfcfbfe10,2025-02-02,"Tokyo, Japan",Windows Server 2019,Small,Web Server,Asia Pacific,78.37,78.37,39.3,39.3,48.78,93.04,22.33,55.48,0,1
+9013d12f-a90e-492c-87c5-5a5811887394,2025-01-24,"London, UK",CentOS 8,Large,Analytics,Europe,43.74,43.74,73.84,73.84,20.42,80.92,19.42,46.0,0,1
+9145e4de-9d1e-4b76-9106-1afa434ceb44,2025-02-22,"Berlin, Germany",Red Hat Enterprise Linux,Small,Backup,Europe,93.02,93.02,90.05,90.05,56.56,82.21,19.73,79.88,0,1
+91ba7e56-1188-420c-baff-9d769851cbf2,2025-03-02,"Tokyo, Japan",Windows Server 2022,Small,Backup,Asia Pacific,23.68,23.68,63.99,63.99,16.51,79.04,18.97,34.73,0,1
+92985510-2e8d-4950-871d-cf7bcf97d2ba,2025-02-07,"London, UK",CentOS 8,Small,Backup,Europe,56.94,56.94,97.67,97.67,66.99,93.58,22.46,73.87,0,1
+93e19987-5698-4538-9998-2971b939ae86,2025-03-01,"London, UK",Ubuntu 20.04,Large,Database,Europe,90.82,90.82,82.21,82.21,11.21,82.42,19.78,61.41,0,1
+9406ae9e-d19d-4be8-9b8a-8792b27db871,2025-01-28,"Sydney, Australia",Windows Server 2019,Small,Cache,Asia Pacific,83.13,83.13,28.77,28.77,25.79,80.75,19.38,45.9,0,1
+95de17b4-60ec-4ea0-a79c-7faecdb85275,2025-02-24,"Sydney, Australia",CentOS 8,Medium,Application,Asia Pacific,75.49,75.49,73.48,73.48,93.03,85.37,20.49,80.67,0,1
+961a2a06-4fd0-485d-bd56-d4e52ab5039c,2025-03-09,"New York, USA",Windows Server 2022,Small,Backup,Americas,17.7,17.7,97.15,97.15,63.26,86.33,20.72,59.37,0,1
+9a6dae07-ccb4-4e9c-8613-5b43b4975e86,2025-01-27,"New York, USA",Windows Server 2019,Large,Analytics,Americas,63.94,63.94,48.38,48.38,27.88,84.08,20.18,46.73,0,1
+9a90becd-5be4-4d03-b1fa-1ffa70cb11f5,2025-02-13,"Tokyo, Japan",Ubuntu 20.04,Medium,Application,Asia Pacific,20.29,20.29,24.65,24.65,66.56,77.83,18.68,37.17,0,1
+9edda05f-c6b8-42d2-9634-841e091fc10c,2025-02-19,"London, UK",CentOS 8,Small,Web Server,Europe,85.91,85.91,38.89,38.89,23.08,76.67,18.4,49.29,0,1
+a04ed20d-570f-41b7-b415-bc2db9d920e6,2025-01-26,"Sydney, Australia",Red Hat Enterprise Linux,Large,Analytics,Asia Pacific,86.93,86.93,21.38,21.38,37.57,78.17,18.76,48.63,0,1
+a17ab97c-13bc-4b4e-8118-1a36a0b4deb0,2025-02-15,"Berlin, Germany",Windows Server 2019,Large,Analytics,Europe,75.58,75.58,46.4,46.4,11.81,95.17,22.84,44.6,0,1
+a200f491-6b7b-4a3e-a3ef-7e48b1945c68,2025-02-15,"Tokyo, Japan",Windows Server 2022,Large,Database,Asia Pacific,26.11,26.11,51.44,51.44,62.7,76.0,18.24,46.75,0,1
+a203bde4-e7da-4eb8-a9c7-9dbe4bde4d35,2025-01-23,"Berlin, Germany",CentOS 8,Large,Database,Europe,15.0,15.0,99.92,99.92,23.65,88.79,21.31,46.19,0,1
+a23db8da-5330-4089-9a05-4ac1390954b7,2025-02-14,"London, UK",Red Hat Enterprise Linux,Large,Database,Europe,34.04,34.04,91.66,91.66,33.55,79.58,19.1,53.08,0,1
+a34fb851-d6ad-4e4c-bb0e-3aa4ef013c31,2025-02-02,"Tokyo, Japan",CentOS 8,Small,Web Server,Asia Pacific,93.89,93.89,20.35,20.35,81.49,75.79,18.19,65.24,0,1
+a387043c-4797-4027-ac1c-5f8a27d1198f,2025-01-31,"Berlin, Germany",Red Hat Enterprise Linux,Large,Analytics,Europe,12.69,12.69,38.06,38.06,10.81,92.83,22.28,20.52,0,1
+a6212f18-0993-4f4f-ab4d-6fc3452bde64,2025-01-16,"Berlin, Germany",Windows Server 2022,Small,Web Server,Europe,55.46,55.46,83.42,83.42,61.89,88.42,21.22,66.92,0,1
+a70f79c3-66c6-4c43-820b-7b0f220277ae,2025-02-27,"Sydney, Australia",CentOS 8,Medium,Application,Asia Pacific,93.07,93.07,59.55,59.55,56.15,76.92,18.46,69.59,0,1
+a7c76fdd-51bd-4184-95e0-816870acd370,2025-02-08,"Sydney, Australia",CentOS 8,Small,Web Server,Asia Pacific,90.0,90.0,62.69,62.69,13.56,89.08,21.38,55.42,0,1
+a82735b5-8ec6-4d02-8ac7-5b3482b26590,2025-03-04,"Tokyo, Japan",Red Hat Enterprise Linux,Large,Database,Asia Pacific,22.89,22.89,36.94,36.94,94.97,90.38,21.69,51.6,0,1
+a8c95376-9a68-43a6-94ce-62c6ffb5b80b,2025-01-20,"Tokyo, Japan",Ubuntu 20.04,Small,Backup,Asia Pacific,77.56,77.56,47.28,47.28,88.26,88.29,21.19,71.03,0,1
+a8fcbe97-16a7-4408-a2ad-dfbd2c531107,2025-03-01,"Berlin, Germany",CentOS 8,Large,Database,Europe,45.87,45.87,72.67,72.67,61.55,75.04,18.01,60.03,0,1
+a975ea7d-612e-4b54-a20e-4859db1b044e,2025-01-18,"New York, USA",CentOS 8,Small,Cache,Americas,38.21,38.21,54.61,54.61,64.27,77.79,18.67,52.36,0,1
+a9e31f3d-5b23-48d4-a8b7-63345d586ec2,2025-02-12,"Sydney, Australia",CentOS 8,Large,Analytics,Asia Pacific,94.8,94.8,49.35,49.35,90.67,78.54,18.85,78.27,0,1
+ad737c08-386f-4394-9ad2-76c244861bb8,2025-02-27,"London, UK",Red Hat Enterprise Linux,Small,Web Server,Europe,46.58,46.58,55.13,55.13,50.7,81.46,19.55,50.8,0,1
+ae5992b7-cd49-49d1-b9bc-65c262ba9e6e,2025-02-06,"Sydney, Australia",Windows Server 2019,Large,Analytics,Asia Pacific,58.43,58.43,32.0,32.0,72.0,79.71,19.13,54.14,0,1
+ae7df33b-0c12-4151-87af-c74f30afd233,2025-02-02,"Tokyo, Japan",Windows Server 2022,Small,Backup,Asia Pacific,68.1,68.1,39.47,39.47,88.96,75.38,18.09,65.51,0,1
+af0bb3fb-f46f-4eda-b608-67393ddbc67f,2025-02-20,"London, UK",Windows Server 2022,Large,Analytics,Europe,44.67,44.67,32.45,32.45,21.09,91.21,21.89,32.74,0,1
+af2df79f-8fce-4aa1-add7-1cba89e1052b,2025-03-02,"Sydney, Australia",Windows Server 2019,Large,Database,Asia Pacific,45.4,45.4,24.63,24.63,47.48,78.08,18.74,39.17,0,1
+b07f4016-f4ba-4ab7-9a46-b61d34e7c4fd,2025-03-06,"Berlin, Germany",Red Hat Enterprise Linux,Medium,Application,Europe,32.23,32.23,35.58,35.58,84.78,88.04,21.13,50.86,0,1
+b1ab8a73-a0ed-464f-9434-b9b61b078bc1,2025-02-01,"Berlin, Germany",Ubuntu 20.04,Large,Analytics,Europe,77.94,77.94,78.72,78.72,82.27,75.5,18.12,79.64,0,1
+b1b867d4-9b1f-492f-88f2-2c9877372180,2025-01-16,"London, UK",Windows Server 2022,Large,Analytics,Europe,85.44,85.44,26.89,26.89,29.98,83.21,19.97,47.44,0,1
+b2607e67-2bd4-4a90-a786-212775f24f61,2025-01-25,"New York, USA",Ubuntu 20.04,Large,Analytics,Americas,86.03,86.03,27.24,27.24,90.44,91.08,21.86,67.9,0,1
+b578baae-6caf-47e6-a1f4-a0eebe17c77f,2025-01-24,"Tokyo, Japan",Ubuntu 20.04,Large,Database,Asia Pacific,57.14,57.14,38.93,38.93,98.83,86.29,20.71,64.97,0,1
+b5f28214-c0f2-4212-941a-a6df4c1206b8,2025-03-12,"London, UK",Ubuntu 20.04,Large,Analytics,Europe,77.29,77.29,25.84,25.84,30.93,94.38,22.65,44.69,0,1
+b6168a70-520f-49bd-9fe1-fd673f7d8b14,2025-03-01,"Berlin, Germany",CentOS 8,Large,Database,Europe,94.59,94.59,81.31,81.31,83.31,92.54,22.21,86.4,0,1
+bac624f3-4927-44ec-b8ff-bf1d6a9f85ad,2025-03-11,"Sydney, Australia",CentOS 8,Small,Cache,Asia Pacific,14.66,14.66,52.16,52.16,67.44,95.08,22.82,44.75,0,1
+bbebda33-f016-4746-96bd-cbd3c5d12474,2025-02-23,"London, UK",Windows Server 2019,Small,Web Server,Europe,96.17,96.17,87.71,87.71,54.77,85.37,20.49,79.55,0,1
+bda2d2fc-9ade-4c22-8c9d-0563a5a2c7b8,2025-03-10,"Berlin, Germany",Ubuntu 20.04,Large,Database,Europe,52.07,52.07,76.32,76.32,99.65,91.04,21.85,76.01,0,1
+c137b910-3675-4dbd-9353-3ba607e98cb0,2025-01-15,"Sydney, Australia",Windows Server 2019,Small,Backup,Asia Pacific,55.22,55.22,68.63,68.63,10.85,86.0,20.64,44.9,0,1
+c2596d33-afee-434c-ac03-a277135eabdd,2025-02-14,"London, UK",Windows Server 2019,Medium,API,Europe,41.71,41.71,59.25,59.25,36.54,95.38,22.89,45.83,0,1
+c2ba6509-caa4-4720-8633-cb7565e9947c,2025-03-09,"Sydney, Australia",Ubuntu 20.04,Medium,Application,Asia Pacific,36.45,36.45,59.28,59.28,18.46,93.25,22.38,38.06,0,1
+c2f91b34-1c12-4c22-889e-86d61b82830c,2025-02-22,"Tokyo, Japan",Windows Server 2022,Large,Database,Asia Pacific,83.95,83.95,67.36,67.36,49.46,81.38,19.53,66.92,0,1
+c4c04d3b-6a47-4024-986f-f8b76ffdcae8,2025-01-29,"New York, USA",Windows Server 2019,Large,Analytics,Americas,45.31,45.31,74.71,74.71,17.27,91.54,21.97,45.76,0,1
+c4c9ea03-7b9d-483d-b434-6b8d850010ca,2025-02-25,"New York, USA",CentOS 8,Small,Backup,Americas,44.08,44.08,46.08,46.08,69.97,78.71,18.89,53.38,0,1
+c62af951-7f42-4cc8-b459-ac44464c9656,2025-02-23,"London, UK",CentOS 8,Medium,Application,Europe,67.54,67.54,78.05,78.05,34.91,87.12,20.91,60.17,0,1
+c717b341-11e6-4ab7-b0f6-75fe8f9e51d4,2025-03-05,"London, UK",Windows Server 2022,Medium,Application,Europe,81.79,81.79,94.95,94.95,60.7,95.62,22.95,79.15,0,1
+cb5c8985-02c4-4f93-a8ef-5fe1215dbb78,2025-01-16,"London, UK",CentOS 8,Large,Database,Europe,64.97,64.97,42.13,42.13,69.63,92.04,22.09,58.91,0,1
+cbc4a707-4692-4a12-87e9-d79ca6c71bfa,2025-02-16,"Berlin, Germany",Windows Server 2022,Small,Web Server,Europe,57.89,57.89,93.66,93.66,64.08,89.63,21.51,71.88,0,1
+cced9fc9-6fce-4e78-a5f1-3b154254cffd,2025-02-20,"Sydney, Australia",Windows Server 2022,Small,Web Server,Asia Pacific,27.79,27.79,76.65,76.65,72.04,89.29,21.43,58.83,0,1
+cd63c41b-1e76-41ab-abdf-4d8532288d1f,2025-02-20,"London, UK",Ubuntu 20.04,Small,Web Server,Europe,43.0,43.0,34.47,34.47,73.66,91.46,21.95,50.38,0,1
+cfeb2838-9ddc-404f-b14a-41540918f46c,2025-01-28,"Sydney, Australia",Ubuntu 20.04,Small,Backup,Asia Pacific,68.66,68.66,32.15,32.15,53.1,89.54,21.49,51.3,0,1
+d34faa52-807a-4e2d-ac97-b259d1aa8896,2025-01-17,"Tokyo, Japan",Red Hat Enterprise Linux,Large,Analytics,Asia Pacific,75.8,75.8,40.61,40.61,17.16,87.12,20.91,44.52,0,1
+d361bcc7-83ea-4a11-b112-d86c1205ce15,2025-01-15,"New York, USA",Windows Server 2022,Small,Cache,Americas,15.27,15.27,91.39,91.39,76.5,80.71,19.37,61.05,0,1
+d40d5d4e-e228-4915-b716-550ebfdf8fe0,2025-02-14,"London, UK",Red Hat Enterprise Linux,Small,Cache,Europe,29.67,29.67,21.27,21.27,57.16,88.17,21.16,36.03,0,1
+d7bbd8fa-273b-4086-9a29-58362e1d0c5e,2025-01-29,"Berlin, Germany",Red Hat Enterprise Linux,Large,Analytics,Europe,95.05,95.05,37.24,37.24,34.24,95.21,22.85,55.51,0,1
+d7daf6c4-22a9-4a4a-bee8-215ba349412c,2025-02-02,"New York, USA",Red Hat Enterprise Linux,Large,Analytics,Americas,88.29,88.29,24.14,24.14,26.13,77.38,18.57,46.19,0,1
+d7db56e6-7774-469d-8f7c-c3abe49869bc,2025-02-06,"Tokyo, Japan",Ubuntu 20.04,Large,Database,Asia Pacific,95.86,95.86,84.95,84.95,88.47,77.54,18.61,89.76,0,1
+d8f0cf61-f31e-4286-9f25-2ce96916a72a,2025-03-12,"Sydney, Australia",Red Hat Enterprise Linux,Large,Analytics,Asia Pacific,55.66,55.66,76.23,76.23,51.54,77.79,18.67,61.14,0,1
+da4e5cb3-aa02-442e-b10f-df5dceeade29,2025-02-21,"New York, USA",Red Hat Enterprise Linux,Small,Cache,Americas,29.93,29.93,58.53,58.53,61.66,89.25,21.42,50.04,0,1
+dbe127fa-83b3-46ce-823d-0a2cdeab02c2,2025-02-15,"London, UK",Ubuntu 20.04,Large,Analytics,Europe,88.46,88.46,72.3,72.3,26.69,91.58,21.98,62.48,0,1
+dc2517f7-e18e-4fcf-9388-46c529641862,2025-02-03,"Berlin, Germany",Ubuntu 20.04,Large,Analytics,Europe,79.8,79.8,34.54,34.54,26.08,95.42,22.9,46.81,0,1
+e23d12bf-d466-4dad-a9e8-1160501a3774,2025-02-14,"Tokyo, Japan",Ubuntu 20.04,Small,Cache,Asia Pacific,99.11,99.11,38.0,38.0,45.17,92.5,22.2,60.76,0,1
+e30f9fc0-033b-4340-8f7b-01026f93bc40,2025-02-28,"Tokyo, Japan",CentOS 8,Large,Analytics,Asia Pacific,69.25,69.25,23.94,23.94,15.84,92.67,22.24,36.34,0,1
+e337f92b-bf7d-49b9-98a4-c11b2399116b,2025-02-04,"London, UK",Windows Server 2019,Large,Analytics,Europe,63.86,63.86,82.91,82.91,23.01,82.46,19.79,56.59,0,1
+e541f2f7-515f-4a8f-b177-c5e90ee9414c,2025-02-26,"London, UK",Red Hat Enterprise Linux,Small,Cache,Europe,69.55,69.55,93.26,93.26,35.63,94.75,22.74,66.15,0,1
+e7646a1f-fa98-4870-a79c-23b4b9d19b2e,2025-01-18,"Sydney, Australia",Windows Server 2022,Small,Backup,Asia Pacific,16.25,16.25,34.69,34.69,25.98,90.75,21.78,25.64,0,1
+e819bc67-e07e-4a6b-8c8c-fb47d8051cf4,2025-03-14,"New York, USA",Windows Server 2022,Small,Backup,Americas,24.44,24.44,49.87,49.87,66.71,91.62,21.99,47.01,0,1
+e8379f03-584c-4924-86e8-2940f2047f48,2025-01-22,"London, UK",Red Hat Enterprise Linux,Small,Backup,Europe,67.72,67.72,84.56,84.56,54.7,92.75,22.26,68.99,0,1
+e850ad2e-89fe-4437-a9e4-a083a1aff8ac,2025-03-13,"Berlin, Germany",Windows Server 2019,Large,Analytics,Europe,74.75,74.75,95.98,95.98,62.51,90.04,21.61,77.75,0,1
+e9a42e27-09a6-4d02-b135-6b8f33fd6f90,2025-02-28,"New York, USA",Ubuntu 20.04,Small,Cache,Americas,66.75,66.75,87.9,87.9,94.88,83.42,20.02,83.18,0,1
+e9ad7958-83df-47d8-b536-94bf53df2d92,2025-02-06,"New York, USA",CentOS 8,Small,Cache,Americas,23.91,23.91,91.49,91.49,31.45,81.92,19.66,48.95,0,1
+e9c0a339-658d-4887-bdfc-1b6086ce1807,2025-01-25,"Sydney, Australia",Red Hat Enterprise Linux,Large,Database,Asia Pacific,64.16,64.16,65.34,65.34,38.51,88.96,21.35,56.0,0,1
+eb85d2ce-5510-423a-bd37-662716ad1164,2025-02-24,"Sydney, Australia",CentOS 8,Medium,Application,Asia Pacific,22.24,22.24,69.49,69.49,76.32,88.71,21.29,56.02,0,1
+ec162a69-23ba-499c-be6c-756885b7bd9e,2025-01-16,"Tokyo, Japan",Windows Server 2019,Large,Analytics,Asia Pacific,98.81,98.81,61.65,61.65,61.26,92.58,22.22,73.91,0,1
+ed4746e9-fd4e-49b8-b3ae-067cab9c1c43,2025-02-18,"New York, USA",CentOS 8,Large,Database,Americas,59.34,59.34,54.8,54.8,89.17,90.83,21.8,67.77,0,1
+ed8a0d8e-4ac0-402e-b843-7d75c42290e5,2025-02-23,"London, UK",Windows Server 2022,Medium,Application,Europe,71.17,71.17,87.33,87.33,89.55,77.42,18.58,82.68,0,1
+ef567390-224e-46de-b73e-94bf73b423f4,2025-01-24,"Berlin, Germany",CentOS 8,Medium,Application,Europe,41.75,41.75,61.17,61.17,56.39,78.33,18.8,53.1,0,1
+f0dc3a9a-113e-4f4a-a272-3338a300ab00,2025-02-02,"New York, USA",Ubuntu 20.04,Medium,Application,Americas,48.93,48.93,68.43,68.43,82.21,91.42,21.94,66.52,0,1
+f2d8c00d-81e8-4000-9cf0-ea6f7e36c1ed,2025-01-19,"Tokyo, Japan",Windows Server 2022,Medium,API,Asia Pacific,35.69,35.69,89.34,89.34,81.83,81.67,19.6,68.95,0,1
+f30b02be-e33b-402f-9955-0ab9ec2da98b,2025-01-29,"New York, USA",Windows Server 2019,Medium,Application,Americas,34.77,34.77,75.52,75.52,81.73,92.67,22.24,64.01,0,1
+f4a5f217-7c24-4f08-be11-0c179ef403e9,2025-03-11,"London, UK",Ubuntu 20.04,Small,Web Server,Europe,82.37,82.37,92.71,92.71,72.98,85.12,20.43,82.69,0,1
+f73edcd1-c6ba-42c0-b7ba-b30f32c49818,2025-02-03,"Berlin, Germany",Ubuntu 20.04,Small,Backup,Europe,38.57,38.57,39.81,39.81,33.87,75.79,18.19,37.42,0,1
+f76ce17a-4713-47dd-a9bb-3eb20caa74d7,2025-01-28,"Tokyo, Japan",Red Hat Enterprise Linux,Medium,Application,Asia Pacific,55.06,55.06,98.0,98.0,67.77,82.71,19.85,73.61,0,1
+f9aa7de8-8fec-4850-bb5c-590d1fd3b179,2025-02-19,"New York, USA",Windows Server 2022,Large,Database,Americas,95.33,95.33,81.06,81.06,42.16,88.33,21.2,72.85,0,1
+fb3aacfd-d7a3-41cf-8c01-37f7ce192e8c,2025-02-01,"New York, USA",Red Hat Enterprise Linux,Large,Database,Americas,96.67,96.67,31.74,31.74,34.75,76.62,18.39,54.39,0,1
+fc139a27-9e59-479b-b13e-61a6e991e656,2025-03-08,"New York, USA",CentOS 8,Medium,Application,Americas,49.86,49.86,66.94,66.94,58.26,94.12,22.59,58.35,0,1
+fdc77db4-cab0-484a-90ed-988aa059d0f8,2025-02-20,"New York, USA",Windows Server 2019,Small,Backup,Americas,65.54,65.54,49.61,49.61,18.96,79.0,18.96,44.7,0,1
+ff07794c-ee78-45fc-87e2-a3f76748b8fb,2025-02-05,"Berlin, Germany",Windows Server 2022,Large,Analytics,Europe,26.33,26.33,72.94,72.94,10.6,76.71,18.41,36.62,0,1
