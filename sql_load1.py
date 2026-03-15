@@ -4,7 +4,7 @@ import pyodbc
 SERVER = "asher3456.database.windows.net"
 DATABASE = "neostats"
 USERNAME = "asher"
-PASSWORD = ""
+PASSWORD = "" #please mail me for the password
 
 conn = pyodbc.connect(
     f"DRIVER={{ODBC Driver 18 for SQL Server}};"
@@ -15,7 +15,6 @@ conn = pyodbc.connect(
 
 cursor = conn.cursor()
 
-# Create server_logs table
 cursor.execute("""
 IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='server_logs' AND xtype='U')
 CREATE TABLE server_logs (
@@ -49,7 +48,6 @@ CREATE TABLE server_logs (
 )
 """)
 
-# Create daily_summary table
 cursor.execute("""
 IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='daily_summary' AND xtype='U')
 CREATE TABLE daily_summary (
@@ -76,7 +74,6 @@ CREATE TABLE daily_summary (
 conn.commit()
 print("Tables created")
 
-# Load server logs CSV
 df = pd.read_csv("data/plogs.csv")
 
 df["Date"] = pd.to_datetime(df["Date"]).dt.date
@@ -101,7 +98,6 @@ for _, row in df.iterrows():
 conn.commit()
 print(f"Inserted {len(df)} rows into server_logs")
 
-# Load daily summary CSV
 ds = pd.read_csv("data/daily_summary.csv")
 
 ds["Date"] = pd.to_datetime(ds["Date"]).dt.date
