@@ -2,7 +2,6 @@ import os
 import pandas as pd
 from azure.storage.blob import BlobServiceClient
 
-# Do NOT commit secrets to source control. Set the connection string via an environment variable.
 CONNECTION_STRING = os.getenv("AZURE_STORAGE_CONNECTION_STRING", "")
 CONTAINER = "rlogs"
 FILE = r"C:/Users/asher/Desktop/neostats/data/Sample_Data_Ingestion.csv"
